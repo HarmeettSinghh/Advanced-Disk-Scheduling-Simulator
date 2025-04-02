@@ -26,6 +26,24 @@ Matplotlib: For animating disk head movements.
 
 NumPy: For mathematical calculations.
 
+🚀 Installation & Setup
+Prerequisites
+Ensure you have Python 3.x installed on your system.
+
+Step 1: Clone the Repository
+
+git clone https://github.com/your-username/disk-scheduling-simulator.git
+cd disk-scheduling-simulator
+Step 2: Install Dependencies
+
+pip install -r requirements.txt
+(If requirements.txt is not available, manually install dependencies:)
+
+pip install matplotlib numpy
+Step 3: Run the Simulator
+python final.py
+
+
 🎥 How to Use
 1️⃣ Enter disk requests as comma-separated values (e.g., 98, 183, 37, 122, 14, 124, 65, 67).
 2️⃣ Enter the initial head position.
