@@ -113,4 +113,3 @@ result_label.grid(row=4, columnspan=2, pady=5)
 
 root.mainloop()
 
-# # # # 98, 183, 37, 122, 14, 124, 65, 67
